@@ -1,0 +1,20 @@
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\bin\Debug\00-TeamProject2.exe.config
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\bin\Debug\00-TeamProject2.exe
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\bin\Debug\00-TeamProject2.pdb
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\obj\Debug\_00_TeamProject2.frmSupplier.resources
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\obj\Debug\_00_TeamProject2.Properties.Resources.resources
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.csproj.GenerateResource.Cache
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.exe
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.pdb
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.csprojResolveAssemblyReference.cache
+C:\Users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\00-TeamProject2\00-TeamProject2\obj\Debug\_00_TeamProject2.frmEditSupplier.resources
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\bin\Debug\00-TeamProject2.exe.config
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\bin\Debug\00-TeamProject2.exe
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\bin\Debug\00-TeamProject2.pdb
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.csprojResolveAssemblyReference.cache
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\obj\Debug\_00_TeamProject2.frmEditSupplier.resources
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\obj\Debug\_00_TeamProject2.frmSupplier.resources
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\obj\Debug\_00_TeamProject2.Properties.Resources.resources
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.csproj.GenerateResource.Cache
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.exe
+E:\000-BACKUP\000-SAIT\001-C-SHARP\00-TeamProject2\00-TeamProject2\obj\Debug\00-TeamProject2.pdb
